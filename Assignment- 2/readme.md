@@ -10,11 +10,11 @@ This python script is designed to process a CSV file and perform a reverse compl
    - Download the `problem_sheet.csv` file from this Github repository
 
 2. **Run the main.py script**:
-   - Execute the process_csv_data.py script.
+   - Execute the `Process_csv_data.py` script.
 
 3. **View Output**:
    - Once the program has completed execution, a new csv file will be saved.
-   - Output file name : final_data.csv
+   - Output file name : `final_data.csv`
 
 
 ## Dependencies
